@@ -1,0 +1,90 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void Rotate_Start_mD322E77A3CF2BEF28C4DF71D3F529107F511B1FB (void);
+extern void Rotate_Update_m73D585515036D9B7AAD8336BFB8567283CE4C7E7 (void);
+extern void Rotate_InterruptRotation_m83BFFA852BC7D791F6D9303A3474779233CE199F (void);
+extern void Rotate_waitASecond_m377A0D33F7B4930C7FA078649631E6CB55311AE7 (void);
+extern void Rotate__ctor_m0EE5CC8EB699542BFC438DC3D547D39E442E9EE4 (void);
+extern void U3CwaitASecondU3Ed__8__ctor_m9DD0B023CF0B304C2D69DA5F84C72D3855BFE44A (void);
+extern void U3CwaitASecondU3Ed__8_System_IDisposable_Dispose_m19B72548D21AECC33E37552D3AD051F6D14A6A3A (void);
+extern void U3CwaitASecondU3Ed__8_MoveNext_m2E1BF59CE2064B3C5266C717E59403D3959C290A (void);
+extern void U3CwaitASecondU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB9CC910A454A493679D25F17441577A227ACDD86 (void);
+extern void U3CwaitASecondU3Ed__8_System_Collections_IEnumerator_Reset_mFA3BCC29D39CE72E79C2B1D6574FD475D8EB06D9 (void);
+extern void U3CwaitASecondU3Ed__8_System_Collections_IEnumerator_get_Current_m39162BAD52C3A4C1D15CBCE51754D21C2D5C5CD3 (void);
+extern void LineManager_Start_m0C9EDAADA590E07337536D75CDC7C3A821143A28 (void);
+extern void LineManager_DrawLine_mA27CC583A00DAF89B63E2BF4C0C18D6119CAF982 (void);
+extern void LineManager__ctor_m3F224326E219E1C7F4AD715826F863BE8C3E0221 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[18] = 
+{
+	Rotate_Start_mD322E77A3CF2BEF28C4DF71D3F529107F511B1FB,
+	Rotate_Update_m73D585515036D9B7AAD8336BFB8567283CE4C7E7,
+	Rotate_InterruptRotation_m83BFFA852BC7D791F6D9303A3474779233CE199F,
+	Rotate_waitASecond_m377A0D33F7B4930C7FA078649631E6CB55311AE7,
+	Rotate__ctor_m0EE5CC8EB699542BFC438DC3D547D39E442E9EE4,
+	U3CwaitASecondU3Ed__8__ctor_m9DD0B023CF0B304C2D69DA5F84C72D3855BFE44A,
+	U3CwaitASecondU3Ed__8_System_IDisposable_Dispose_m19B72548D21AECC33E37552D3AD051F6D14A6A3A,
+	U3CwaitASecondU3Ed__8_MoveNext_m2E1BF59CE2064B3C5266C717E59403D3959C290A,
+	U3CwaitASecondU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB9CC910A454A493679D25F17441577A227ACDD86,
+	U3CwaitASecondU3Ed__8_System_Collections_IEnumerator_Reset_mFA3BCC29D39CE72E79C2B1D6574FD475D8EB06D9,
+	U3CwaitASecondU3Ed__8_System_Collections_IEnumerator_get_Current_m39162BAD52C3A4C1D15CBCE51754D21C2D5C5CD3,
+	LineManager_Start_m0C9EDAADA590E07337536D75CDC7C3A821143A28,
+	LineManager_DrawLine_mA27CC583A00DAF89B63E2BF4C0C18D6119CAF982,
+	LineManager__ctor_m3F224326E219E1C7F4AD715826F863BE8C3E0221,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[18] = 
+{
+	16965,
+	16965,
+	16965,
+	11077,
+	16965,
+	12846,
+	16965,
+	16535,
+	16747,
+	16965,
+	16747,
+	16965,
+	12919,
+	16965,
+	16965,
+	16965,
+	29088,
+	16965,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	18,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
